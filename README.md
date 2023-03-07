@@ -7,6 +7,6 @@
 <br>
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlondev&layout=compact&theme=nord)](https://davlon.xyz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlondev&layout=compact&theme=nord)](https://davlon.dev)
 
 <a href="https://www.linkedin.com/in/davlon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
