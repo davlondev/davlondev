@@ -1,6 +1,6 @@
 
 <h3>Hi there! 😎</h3>
-<p>I'm David! A developer based in Perth, Australia focused on artificial intelligence and web development. 
+<p>I'm David! A developer based in Perth, Australia focused on artificial intelligence. 
 <br>I'm also a hobbyist game engine developer! 🎮</p>
 <p>Feel free to visit my website and blog <a href="https://davlon.dev" target="_blank">here</a>!</p>
 
